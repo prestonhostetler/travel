@@ -1,0 +1,36 @@
+body {
+    background-color: cadetblue !important;
+    background-image: url('/images/sea-hits-beach-1342958.jpg')
+}
+
+.full-padd {
+    padding: 20px 0px;
+}
+
+h1 {
+    text-align: center;
+    color: aquamarine;
+}
+
+.search-container {
+    position: absolute;
+    top: 130px;
+    right: 200px;
+    z-index: 10;
+}
+
+.search-container input {
+    font-size: 18px;
+    border-radius: 10px;
+}
+
+.search-button {
+    position: absolute;
+    top: 126px;
+    right: 115px;
+    z-index: 10;
+}
+
+.search-button input {
+    font-size: 18px;
+}
